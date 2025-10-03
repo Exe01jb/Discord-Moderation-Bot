@@ -53,10 +53,6 @@ After setting up the secrets, run this command once to register the slash comman
 node deploy-commands.js
 ```
 
-### 5. Start the Bot
-
-Click the "Run" button in Replit, or the bot will start automatically.
-
 ## Available Commands
 
 All commands require Administrator permissions.
