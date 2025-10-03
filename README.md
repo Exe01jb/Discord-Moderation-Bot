@@ -69,6 +69,8 @@ All commands require Administrator permissions.
 - `/warn` - Warn a user
 - `/unwarn` - Remove a warning from a user
 - `/kick` - Kick a user from the server
+- `/timeout` - Timeout User
+- `/removetimeout` - Removetimeout User
 
 ### Verification System
 - `/verify setup` - Set up the verification system in a channel
